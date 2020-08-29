@@ -3,12 +3,14 @@ Tahfidz monitoring awardee BBJ 2020
 INSTALASI TAHFIDZ MONITORING
 
 Persiapkan Xampp / Aplikasi Local Server Sejenis
+jalankan mysql pada xampp
 Install Composer, Download di https://getcomposer.org/
 Restart komputer jika selesai instalasi jika perlu
 Masuk ke direktori program tahfidz monitoring
 Lakukan perintah pada cmd. composer update
 Copy .env.example dan buat file pada direktori yang sama .env
 Masih pada file .env file yang baru, ganti DB_DATABASE isi dengan tahfidz DB_USERNAME isi dengan root DB_PASSWORD kosongkan | (atau sesuaikan dengan xampp anda)
+lalu jalankan perintah php artisan migrate
 Buka CMD masuk ke direktori tahfidz ketikkan perintah = php artisan serve
 INSTALASI PADA TAHAP INI SELESAI
 
