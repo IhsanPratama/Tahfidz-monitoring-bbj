@@ -1,5 +1,9 @@
 # Tahfidz-monitoring-bbj
 Tahfidz monitoring awardee BBJ 2020
+
+untuk demo 
+http://bit.ly/MiniProjectIhsanBBJ10
+
 INSTALASI TAHFIDZ MONITORING
 dibuat dengan framework laravel
 masih perlu perbaikan ,
@@ -11,7 +15,8 @@ Masuk ke direktori program tahfidz monitoring
 Lakukan perintah pada cmd. composer update
 Copy .env.example dan buat file pada direktori yang sama .env
 Masih pada file .env file yang baru, ganti DB_DATABASE isi dengan tahfidz DB_USERNAME isi dengan root DB_PASSWORD kosongkan | (atau sesuaikan dengan xampp anda)
-lalu jalankan perintah php artisan migrate
+lalu jalankan perintah php artisan migrate kemudian
+
 jalankan php artisan db:seed
 
 CARA PENGAKSESAN
