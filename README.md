@@ -1,7 +1,8 @@
 # Tahfidz-monitoring-bbj
 Tahfidz monitoring awardee BBJ 2020
 INSTALASI TAHFIDZ MONITORING
-
+dibuat dengan framework laravel
+masih perlu perbaikan ,
 Persiapkan Xampp / Aplikasi Local Server Sejenis
 jalankan mysql pada xampp
 Install Composer, Download di https://getcomposer.org/
