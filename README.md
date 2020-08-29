@@ -28,3 +28,8 @@ Masukkan user: admin
 pass : admin
 (USER LEVEL CREATOR)
 
+jika bingung
+bisa search di google cara https://www.google.com/search?q=cara+menjalankan+laravel&oq=cara+menajalankan+&aqs=chrome.3.69i57j0l7.5632j0j7&sourceid=chrome&ie=UTF-8
+
+atau bisa dengan keywoard sejenis 
+
