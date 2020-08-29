@@ -21,7 +21,8 @@ jalankan php artisan db:seed
 
 CARA PENGAKSESAN
 
-masih pada cmd di direktori tahfidz ketikan perintah php artisan serve
+masih pada cmd di direktori tahfidz ketikan perintah 
+php artisan serve
 Akses 127.0.0.1:8000
 Masukkan user: admin
 pass : admin
